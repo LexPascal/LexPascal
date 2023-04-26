@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @alexdeto99
-- 🌱 I’m currently studying Biological and Environmental Engineering at UAB 
+
 - 📫 How to reach me Alexander.DeTomas@uab.cat
 <!---
 alexdeto99/alexdeto99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
